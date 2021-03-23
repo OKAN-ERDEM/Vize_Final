@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\bin\Debug\Gazi.KazanMYO.VizeFinal.App.exe.config
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\bin\Debug\Gazi.KazanMYO.VizeFinal.App.exe
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\bin\Debug\Gazi.KazanMYO.VizeFinal.App.pdb
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\obj\Debug\Gazi.KazanMYO.VizeFinal.App.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\obj\Debug\Gazi.KazanMYO.VizeFinal.App.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\obj\Debug\Gazi.KazanMYO.VizeFinal.App.exe
+C:\Users\HP\source\repos\OKAN-ERDEM\Gazi.KazanMYO.VizeFinal.App\Gazi.KazanMYO.VizeFinal.App\obj\Debug\Gazi.KazanMYO.VizeFinal.App.pdb
